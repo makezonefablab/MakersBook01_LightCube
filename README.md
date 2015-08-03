@@ -11,9 +11,8 @@
 
 준비물
 --------------
-<<<<<<< HEAD
 ![ScreenShot](https://raw.githubusercontent.com/makezonefablab/HungryBot/master/img/%EC%A4%80%EB%B9%84%EB%AC%BC_.jpg)
 
 제작영상
 --------------
-[![ScreenShot](https://raw.githubusercontent.com/makezonefablab/MakersBook01_LightCube/master/img/%EC%A4%80%EB%B9%84%EB%AC%BC.jpg)](https://vimeo.com/98120575)
+[![ScreenShot](https://raw.githubusercontent.com/makezonefablab/MakersBook01_LightCube/master/img/movie.png)](https://vimeo.com/98120575)
