@@ -17,12 +17,3 @@
 제작영상
 --------------
 [![ScreenShot](https://raw.githubusercontent.com/makezonefablab/MakersBook01_LightCube/master/img/%EC%A4%80%EB%B9%84%EB%AC%BC.jpg)](https://vimeo.com/98120575)
-=======
-![ScreenShot](https://github.com/makezonefablab/MakersBook01_LightCube/blob/master/img/%EC%A4%80%EB%B9%84%EB%AC%BC.jpg)
-
-제작영상
---------------
-[![ScreenShot](https://raw.githubusercontent.com/makezonefablab/MakersBook01_LightCube/master/img/movie.png)](https://vimeo.com/98120575)
-
-
->>>>>>> origin/master
